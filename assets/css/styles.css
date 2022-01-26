@@ -1,0 +1,84 @@
+*{
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#marca{
+    color: #fff;
+    font-size: 1.3rem;
+}
+
+#menu{
+    color: #fff;
+    opacity: 60%;
+}
+
+
+.fas{
+    font-size: 1.8rem;
+}
+
+.quienesSomos{
+    color: #000;
+}
+
+.texto{
+    text-align: left;
+    font-size: 1rem;
+    padding:0 !important;
+}
+
+body{
+    background-color: #000;
+    position: relative;
+}
+
+.card-img-top {
+    height: 10rem;
+    object-fit: cover;
+} 
+
+.linea1{
+    color: #fff;
+    border: 1px solid;
+    opacity: 10%;
+    margin: auto;
+}
+
+.linea2{
+    color: #fff;
+    border: 1px solid;
+    opacity: 10%;
+    width: 90%;
+    margin: auto;
+}
+
+.destacados{
+    text-align: left;
+}
+
+.titulo-des{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.txtdesc{
+    font-size: 0.9rem;
+}
+
+.navbar a{
+    color: #fff;
+}
+
+.pie{
+    font-size: 2rem;
+
+}
+
+.iconos{
+    word-spacing: 1rem;
+}
+
+.botonEnviar{
+    width: auto;
+}
